@@ -30,12 +30,6 @@ class Aditi:
         self.languages   = ["Python", "SQL", "HTML", "CSS"]
         self.open_to     = ["Internships", "Full-time Roles",
                             "Research Collaborations"]
-
-    def currently_building(self):
-        return [
-            "BharatLens  — AI economic intelligence platform",
-            "CodeMind AI — RAG agent for GitHub repos",
-        ]
 ```
 
 <br clear="right"/>
@@ -133,7 +127,32 @@ class Aditi:
 
 ---
 
+### GitHub Activity
+
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=27Aditi&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+### What I Believe In
+
+> *"The best way to predict the future is to build it."*
+
+I believe in building things that solve real problems — not just toy projects, but systems that could actually be used. Every project in my portfolio is built with a specific real-world use case in mind, from predicting economic trends to detecting network intrusions.
+
+I approach every problem the same way — understand the domain deeply, choose the right tool, and build something that actually works.
+
+---
+
+<div align="center">
+
+**Open to internship and full-time opportunities in Machine Learning, Data Science, and AI Engineering.**
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-bhatnagar11)
+[![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhatnagar1aditi@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
