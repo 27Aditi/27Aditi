@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aditi--bhatnagar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditi-bhatnagar11)
 [![Gmail](https://img.shields.io/badge/Gmail-bhatnagar1aditi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhatnagar1aditi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-27Aditi-181717?style=flat-square&logo=github)](https://github.com/27Aditi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-aditi277-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/aditi277/)
 
 </div>
 
@@ -73,11 +74,27 @@ I am a final year Computer Science Engineering student with a focus on machine l
 
 ---
 
-## Currently Working On
+## GitHub & LeetCode Stats
 
-- Deploying BharatLens with full LSTM + FinBERT pipeline
-- Expanding CodeMind AI with multi-repo support
-- Exploring LLM fine-tuning with LoRA/QLoRA
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=27Aditi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Aditi&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/aditi277?theme=dark&font=Nunito&ext=heatmap&hide=ranking" height="200"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=27Aditi&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
