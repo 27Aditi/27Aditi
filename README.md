@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditi-bhatnagar11)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhatnagar1aditi@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-aditi277-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aditi277/)
-[![Portfolio](https://img.shields.io/badge/CLV%20Dashboard-Live%20Demo-00C853?style=for-the-badge&logo=streamlit&logoColor=white)](https://dashboardclv.streamlit.app/)
 
 </div>
 
