@@ -1,148 +1,83 @@
-<div align="center">
+# Hi, I'm Aditi Bhatnagar 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditi%20Bhatnagar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%7C%20Final%20Year%20CSE&descAlignY=55&descSize=16"/>
+**Software Engineer | Python • Backend Development • Machine Learning • Generative AI**
 
-</div>
+Computer Science undergraduate with hands-on experience building backend systems (FastAPI, SQLAlchemy, JWT) and machine learning pipelines. Comfortable with core data structures & algorithms, and actively expanding into Generative AI tooling. Looking for a Software Engineer role where I can contribute to production-grade systems while continuing to grow.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditi-bhatnagar11)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhatnagar1aditi@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-aditi277-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aditi277/)
-
-</div>
+📫 **Reach me:** aditi.bhatnagar7201@gmail.com | 📱 8305010396
+🔗 [LinkedIn](#) • [LeetCode](#)
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 🎓 Education
 
-### Who I Am
-
-```python
-class Aditi:
-    def __init__(self):
-        self.name        = "Aditi Bhatnagar"
-        self.role        = "ML Engineer · Final Year CSE"
-        self.location    = "India"
-        self.focus       = ["Deep Learning", "NLP", "LLMs",
-                            "Data Analytics", "Cybersecurity"]
-        self.languages   = ["Python", "SQL", "HTML", "CSS"]
-        self.open_to     = ["Internships", "Full-time Roles",
-                            "Research Collaborations"]
-```
-
-<br clear="right"/>
+- **B.Tech, Computer Science & Engineering** — Medicaps University, Indore (2023 – Present) · CGPA: 8.45/10
+- **Higher Secondary (Class XII)** — St. Thomas Sr. Sec. School, Mandsaur (2022–2023) · 89%
+- **Senior Secondary (Class X)** — St. Thomas Sr. Sec. School, Mandsaur (2020–2021) · 94.8%
 
 ---
 
-### Tech Stack
+## 🛠️ Tech Stack
 
-**AI / ML**
+**Languages:** Python, C++, SQL
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
-![LSTM](https://img.shields.io/badge/LSTM-purple?style=flat-square)
-![FinBERT](https://img.shields.io/badge/FinBERT-yellow?style=flat-square)
+**Backend & Core CS:** FastAPI, REST APIs, SQLAlchemy, JWT Authentication, Data Structures & Algorithms
 
-**LLMs & RAG**
+**Machine Learning:** Scikit-learn, XGBoost, LightGBM, Isolation Forest, Bayesian Fusion, Ensemble Modeling
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![Llama](https://img.shields.io/badge/Llama%203.3-0467DF?style=flat-square)
+**Generative AI / LLM:** LangChain, LangGraph, HuggingFace Transformers, Prompt Engineering, RAG (Retrieval-Augmented Generation), Agentic AI, NLP
 
-**Frameworks**
+**Data & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Dash](https://img.shields.io/badge/Plotly%20Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+**Databases & Tools:** PostgreSQL, Vector Databases, Git, GitHub, Jupyter Notebook, VS Code, AWS
 
-**Data**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-FF8C00?style=flat-square)
+**Methodologies:** Agile stand-ups, Code Reviews, Technical Documentation, Analytical Thinking
 
 ---
 
-### Featured Projects
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/27Aditi/BharatLens">BharatLens</a></h4>
-      <p>AI-powered India economic intelligence platform. LSTM forecasting on 3 years of NIFTY data, FinBERT sentiment analysis on Hindi + English financial news, and a What-If macro simulator.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FinBERT-yellow?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/27Aditi/CodeMind-AI">CodeMind AI</a></h4>
-      <p>Chat with any GitHub repository using AI. Self-RAG agent with hybrid BM25 + vector retrieval, powered by LangGraph, Qdrant, and Groq's Llama 3.3 70B.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/27Aditi/netguard-nids">NetGuard NIDS</a></h4>
-      <p>ML-based Network Intrusion Detection System. Ensemble of Random Forest, XGBoost, LightGBM with Isolation Forest anomaly detection and Bayesian fusion scoring.</p>
-      <p>
-        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/27Aditi/trade-route-intelligence-platform">TradeRoute Intelligence</a></h4>
-      <p>Supply chain risk intelligence platform. Interactive trade route mapping, multi-factor risk scoring, disruption simulation with graph analytics, and alternative sourcing recommendations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NetworkX-FF8C00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Plotly%20Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🤖 [CodeMind AI — GitHub Repository Intelligence Agent](https://github.com/27Aditi/codemind-ai)
+`LangGraph` `Qdrant` `Groq` `Llama 3.3 70B`
+- Built a Self-RAG agent that lets you paste any GitHub repo URL and chat with its codebase in plain English.
+- Implemented hybrid retrieval combining BM25 keyword search and Qdrant vector search for more accurate code search.
+- Powered by Groq's Llama 3.3 70B with LangGraph managing the reasoning loop, auto-refining queries on weak retrieval.
+
+### 🛡️ [NetGuard AI — Network Threat Intelligence Platform](https://github.com/27Aditi/netguard-nids)
+`Random Forest` `XGBoost` `LightGBM` `Bayesian Fusion` `Isolation Forest` `Streamlit`
+- Built an ensemble ML pipeline classifying network traffic across 9 attack categories on the UNSW-NB15 dataset (2.5M+ flows).
+- Integrated Isolation Forest for unsupervised anomaly detection to catch zero-day attack patterns.
+- Engineered a 32-feature extraction pipeline (NFStream, Scapy) with a Streamlit dashboard supporting PCAP file analysis and live network capture.
+
+### ✂️ [ShortLink — URL Shortener with Custom Caching & Rate Limiting](https://github.com/27Aditi/shortlink)
+`Python` `FastAPI` `SQLAlchemy` `PostgreSQL`
+- Built a RESTful URL shortener using base62 encoding for O(1) code generation and lookup.
+- Engineered a custom LRU cache from scratch (hashmap + doubly linked list), removing the need for Redis on hot-path lookups.
+- Implemented a token-bucket rate limiter for per-IP throttling, validated with Pytest across API, cache, and limiter logic.
+
+### ✅ [TaskFlow — Multi-User Task Management Platform](https://github.com/27Aditi/Taskflow)
+`Python` `FastAPI` `JWT` `SQLAlchemy` `PostgreSQL`
+- Built a multi-user task board with JWT authentication, bcrypt password hashing, and role-based access control.
+- Designed a normalized relational schema (Users, Boards, Members, Tasks) for team-based collaboration.
+- Delivered full CRUD REST APIs with access-control middleware, tested using Pytest and FastAPI TestClient.
+
+### 📊 CLV Dashboard — Customer Lifetime Value Analysis
+`Python` `Pandas` `NumPy` `Seaborn` `Jupyter Notebook`
+- Streamlit-based interactive analytics application analyzing customer transaction data to compute CLV metrics.
+- Implemented customer-wise and segment-wise CLV analysis with interactive Plotly visualizations, using optimized Parquet datasets.
+- Structured as a reusable analytics pipeline that could connect to external CRM data sources via API.
 
 ---
 
-### LeetCode Stats
+## 🏆 Certifications & Achievements
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/aditi277?theme=dark&font=Nunito&ext=heatmap" width="500"/>
-
-</div>
-
----
-
-### What I Believe In
-
-> *"The best way to predict the future is to build it."*
-
-I believe in building things that solve real problems — not just toy projects, but systems that could actually be used. Every project in my portfolio is built with a specific real-world use case in mind, from predicting economic trends to detecting network intrusions.
-
-I approach every problem the same way — understand the domain deeply, choose the right tool, and build something that actually works.
+- 🧠 Data Science & AI Masters 2026 – From Python to Gen AI | Udemy
+- 🐍 Python Libraries for Data Science | Udemy
+- 📜 Python (Basic) & SQL (Basic) | HackerRank
+- ☁️ AWS Academy Cloud Foundations | Credly
+- ☁️ AWS Academy Cloud Architecting | Credly
+- 💻 Solved 300+ problems on LeetCode
 
 ---
 
-<div align="center">
-
-**Open to internship and full-time opportunities in Machine Learning, Data Science, and AI Engineering.**
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-bhatnagar11)
-[![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhatnagar1aditi@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
+⭐️ Feel free to explore my repositories, and reach out if you'd like to collaborate!
